@@ -15,7 +15,7 @@ O objetivo do projeto é fazer um código capaz de receber uma lista de propried
 <hr>
 
 # Funcionamento da aplicação
-<h3>Passo a passo de como está funcionando a aplicação: 
+<h3>Aplicação em funcionamento no vscode: 
  
  <hr>
 
@@ -25,7 +25,7 @@ O objetivo do projeto é fazer um código capaz de receber uma lista de propried
  
  <hr>
  
-# Aplicação em funcionamento no terminal!
+# Aplicação em funcionamento no terminal:
 
 ![3](https://user-images.githubusercontent.com/112709989/216720913-69cd5d0f-7767-4c19-8550-8037eeeaf218.png)
 
