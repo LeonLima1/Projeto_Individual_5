@@ -16,21 +16,20 @@ O objetivo do projeto é fazer um código capaz de receber uma lista de propried
 
 # Funcionamento da aplicação
 <h3>Passo a passo de como está funcionando a aplicação: 
-<ol>
-<li>![1](https://user-images.githubusercontent.com/112709989/216720735-8012a480-0040-4026-8446-6c311c937f6d.png)
 
-<li>![2](https://user-images.githubusercontent.com/112709989/216720744-fe8837ab-acb9-4b80-a2ac-9c1f1c9af26b.png)
+![1](https://user-images.githubusercontent.com/112709989/216720888-4f4e1de3-b3dd-4a8b-8fa2-3197336baa76.png)
 
-<li>![3](https://user-images.githubusercontent.com/112709989/216720751-535a9a00-4368-4995-805a-e9be57a86442.png)
+![2](https://user-images.githubusercontent.com/112709989/216720899-10078926-40b7-4bf4-ad92-6f347fdbb540.png)
 
-<li>![4](https://user-images.githubusercontent.com/112709989/216720761-dff57207-b1d9-4005-adcb-01b1c5738b54.png)
+![3](https://user-images.githubusercontent.com/112709989/216720913-69cd5d0f-7767-4c19-8550-8037eeeaf218.png)
 
-<li>![5](https://user-images.githubusercontent.com/112709989/216720769-548de72e-aa1a-43f0-b791-ab9f548787ba.png)
+ ![4](https://user-images.githubusercontent.com/112709989/216720930-18dc576e-1dc4-4383-8bc2-b400df4aa4e0.png)
 
-</ol>
+ ![5](https://user-images.githubusercontent.com/112709989/216720975-0ea162e7-223d-40b3-b6f6-f971a27dc275.png)
 
 
+# Dependências utilizadas
 
-Dependências utilizadas
-Chalk;
-Readline-sync;
+ <h3>Chalk;
+  
+ <h3>Readline-sync;
